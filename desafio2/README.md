@@ -9,6 +9,7 @@ tienen los mismos campos, más una relación a Tareas. El proyecto debe contar c
 archivos de servicios donde estará la lógica de aplicación sobre los modelos. Se podrá
 presentar utilizando SQLite3 o Postgresql
 Entonces, debemos tener lo siguientes requerimientos:
+
 -Un proyecto llamado “desafio2” con una aplicación llamada “desafioadl”
 -La conexión a base de datos se realiza con SQLite o Postgresql.
 -En “desafioadl” deben existir dos modelos: Tarea y SubTarea.
@@ -27,7 +28,6 @@ El proyecto utiliza las siguientes tecnologías:
 ## Autor
 
 -Claudio Merino Fuentes.
-
 
 ## Instalación
 
